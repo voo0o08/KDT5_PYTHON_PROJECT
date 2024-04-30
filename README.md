@@ -1,0 +1,2 @@
+# KDT5_PYTHON_PROJECT-
+KDT PYTHON 프로젝트 파일
